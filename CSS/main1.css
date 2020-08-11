@@ -1,0 +1,95 @@
+
+body{
+/*    background-image: url(zebra.jpg);*/
+/*    background-repeat: no-repeat; */
+/*    background-size: cover;*/
+    background-color: #444;
+    text-align: center;
+         
+}
+
+
+
+/*
+
+.container {
+    background: linear-gradient(to left ,#00ccff,#b3f0ff);
+        box-shadow: 5px 5px 10px black;
+
+      
+}
+
+#foo {
+    color: cyan;
+}
+
+[id="foo"] {
+    color blue !important;
+}
+*/
+/*
+.container h1 {
+    color: green;
+}
+
+div h1 {
+    color : red;
+}*/
+/*
+h1 {
+    color:  aqua !important;
+}
+*/
+/*grouping*/h1{
+    color: #ffffff;
+/*    text-shadow: 2px 2px 5px black;*/
+    line-height: 2rem;
+   font-family: 'Spirax',cursive;
+/*    font-style: italic;*/
+}
+
+/*
+h2 {
+    font-size: 30px; 
+    font-style: normal;
+}
+*/
+
+h2 {
+    color: #ffffff;
+    line-height: 2rem;
+/*    font-family: "Krona+One",sans-serif;*/
+/*    font-family: "Roboto:wght@300&display=swap";*/
+}
+
+h3 {
+    color: #fffff;
+    line-height: 2rem;
+}
+.formatting {
+    font-size: 25px;
+    line-height: 2em;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: yellow;
+    word-spacing: 10px;
+    text-transform: uppercase;
+}
+ 
+
+.borderImg{
+    border: 2px dashed red;
+}
+
+ul li {
+    color: white;
+    font-size: 20px;
+} /*descedece*/
+
+ul > li {
+    color: yellow;
+} /* targets only the children*/
